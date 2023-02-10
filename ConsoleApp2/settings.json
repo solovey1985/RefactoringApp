@@ -1,0 +1,22 @@
+{
+  "Directory": "D:\\Repository\\QF\\Site\\bin\\",
+  "OutputDirectory": "D:\\Work\\QF\\",
+  "Library": "Kantar.KAP.MS.QF.BL.dll",
+  "Namespaces": [
+    {
+      "Name": "Kantar.KAP.MS.QF.BL.Helpers"
+    },
+    {
+      "Name": "Kantar.KAP.MS.QF.BL.Managers"
+    },
+    {
+      "Name": "Kantar.KAP.MS.QF.BL.Proxies"
+    },
+    {
+      "Name": "Kantar.KAP.MS.QF.BL.Objects"
+    },
+    {
+      "Name": "Kantar.KAP.MS.QF.BL.Enums"
+    },
+  ]
+}
